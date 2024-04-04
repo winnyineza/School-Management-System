@@ -64,8 +64,8 @@ Follow the same pattern to install initial data for other applications.
 <br>
 
 # Contact me:
-- [Facebook](https://www.facebook.com/tareqmonwer1/)
-- [Linkedin](linkedin.com/in/tareqmonwer)
-- [Twitter](https://twitter.com/TareqMonwerDPI)
-- [Github](https://github.com/TareqMonwer)
-- [Website](https://www.tareqmonwer.com)
+- [Facebook](https://www.facebook.com/)
+- [Linkedin](linkedin.com/in/)
+- [Twitter](https://twitter.com/)
+- [Github](https://github.com/)
+- [Website]()
